@@ -26,7 +26,7 @@
     <artifactId>vlcj-mrls</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 
-    <name>vlcj file filters</name>
+    <name>vlcj mrls</name>
     <description>MRL builders for optional use when playing media with vlcj.</description>
     <url>http://capricasoftware.co.uk/projects/vlcj</url>
     <inceptionYear>2009</inceptionYear>
