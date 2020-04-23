@@ -18,7 +18,7 @@
 
     <groupId>uk.co.caprica</groupId>
     <artifactId>vlcj-mrls</artifactId>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>2.0.0</version>
 
     <name>vlcj mrls</name>
     <description>MRL builders for optional use when playing media with vlcj.</description>
@@ -66,7 +66,7 @@
         <connection>scm:git:git@github.com:caprica/vlcj-mrls.git</connection>
         <developerConnection>scm:git:git@github.com:caprica/vlcj-mrls.git</developerConnection>
         <url>git@github.com:caprica/vlcj-mrls.git</url>
-        <tag>HEAD</tag>
+        <tag>vlcj-mrls-2.0.0</tag>
     </scm>
 
     <distributionManagement>
